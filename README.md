@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Naufal Nafis 
 
-<!--
-**naufalnafis-nana/naufalnafis-nana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Support  
+🌐 Network Engineer  
+🖥️ Linux & Windows Administrator
 
-Here are some ideas to get you started:
+Selamat datang di GitHub saya.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya memiliki minat yang besar pada dunia Infrastruktur IT, Network Security, dan System Administration.
+
+Saat ini saya aktif membangun homelab untuk mengembangkan kemampuan dalam:
+
+🔹 FortiGate Firewall  
+🔹 Debian Linux Server  
+🔹 Samba Active Directory  
+🔹 DNS & DHCP Services  
+🔹 VMware Virtualization  
+🔹 Windows Administration  
+🔹 Network Troubleshooting
+
+## 🛠️ Tech Stack
+
+- FortiGate
+- Debian Linux
+- Samba AD
+- Windows 10/11
+- VMware Workstation
+- DNS
+- DHCP
+- SSH
+- TCP/IP
+- VLAN
+
+## 📈 Current Goals
+
+- Menjadi Network & System Administrator yang kompeten
+- Mendalami Network Security
+- Membangun portfolio homelab yang profesional
+- Mengembangkan skill Infrastructure Engineering
+
+## 📂 Featured Projects
+
+- FortiGate Lab
+- Debian Server Lab
+- Samba Active Directory Lab
+- Windows Domain Environment
+- IT Support Documentation
+
+⭐ Terima kasih telah mengunjungi profil saya.
